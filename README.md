@@ -24,7 +24,7 @@ Limpar dados: Faz a limpeza de todos os dados armazenados no programa, evitando 
 
 MELHORIAS DO PROGRAMA.
 
-Bancos de dados completo totalmente offline.
+Bancos de dados completo totalmente off-line.
 
 Suporte a dois idiomas.
 
