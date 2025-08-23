@@ -34,7 +34,13 @@ Conexão rápida e precisa.
 
 Janela que mostra o código de erro automaticamente ao finalizar a leitura.
 
-PS3 SysCon Tool 1.1
+
+
+
+
+
+
+PS3 SysCon Tool
 
 Uma ferramenta para diagnosticar e controlar o System Controller (SysCon) do PlayStation 3 (PS3) via comunicação serial UART. Ideal para técnicos e entusiastas que precisam ler códigos de erro (como YLOD), autenticar conexões seguras e executar comandos de hardware de baixo nível. Funcionalidades Principais
 
