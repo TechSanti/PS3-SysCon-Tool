@@ -1,3 +1,6 @@
+<img width="702" height="702" alt="Capturar" src="https://github.com/user-attachments/assets/a2f71a60-5f49-47dd-8b4d-7b2aec1b7490" />
+
+
 Funcionalidade do programa:
 
 Idioma: Seleção de idiomas entre português Brasil e inglês.
