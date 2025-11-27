@@ -8,10 +8,9 @@
 - Doação para o projeto.
 - Donation for the project.
 
-
-#PS3 SysCon Tool 1.3.1
-
 [![YouTube](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ademesonsantiago)
+
+# PS3 SysCon Tool 1.3.1
 
 <img width="702" height="702" alt="Capturar" src="https://github.com/user-attachments/assets/a2f71a60-5f49-47dd-8b4d-7b2aec1b7490" />
 
