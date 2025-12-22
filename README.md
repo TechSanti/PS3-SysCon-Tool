@@ -1,5 +1,5 @@
 # Channel.
-- channel PS3 SysCon Tool 1.3.1
+- channel PS3 SysCon Tool
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Tech_Santi) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tech_santi)
 
@@ -10,7 +10,7 @@
 
 [![YouTube](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ademesonsantiago)
 
-# PS3 SysCon Tool 1.3.1
+# PS3 SysCon Tool
 
 <img width="702" height="702" alt="Capturar" src="https://github.com/user-attachments/assets/a2f71a60-5f49-47dd-8b4d-7b2aec1b7490" />
 
