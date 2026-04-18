@@ -1,5 +1,5 @@
 # Channel.
-- channel PS3 SysCon Tool
+- channel PS3 SysCon Tool 1.0.0.5
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Tech_Santi) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tech_santi)
 
@@ -10,10 +10,17 @@
 
 [![YouTube](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ademesonsantiago)
 
+# PIX Doação para o projeto.
+- **Nome**: Ademeson Santiago de Lima
+- **CPF**: °°°.152.838-°°
+- **Instituição**: PAGSEGURO S.A.
+
+- **Observação**: Conferir os dados a cima antes de finalizar o envio da doação.
+<img width="280" height="280" alt="qrcode-pix" src="https://github.com/user-attachments/assets/956d64f2-048d-40e5-b8ca-a16ea65c62e0" />
+
 # PS3 SysCon Tool
 
-<img width="702" height="702" alt="Capturar" src="https://github.com/user-attachments/assets/a2f71a60-5f49-47dd-8b4d-7b2aec1b7490" />
-
+<img width="702" height="702" alt="Capturar" src="https://github.com/user-attachments/assets/aa733404-51cd-436b-b77f-660529471e9d" />
 
 **Funcionalidade do programa:**
 
